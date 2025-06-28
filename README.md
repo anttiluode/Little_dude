@@ -42,6 +42,9 @@ Multi-scale processing development
 Character-level language acquisition
 
 Usage
+
+Install requirements.txt
+
 Run the main architecture test
 python fractal_dendritic_attention.py
 
